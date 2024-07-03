@@ -28,6 +28,13 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSCameraUsageDescription</key>
+	<string>For Scanning face of women</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>For locating user to cab</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>For locating user to cab</string>
+
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
